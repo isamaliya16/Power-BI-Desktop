@@ -2,7 +2,7 @@
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="images/dashboard.png" width="900">
+  <img src="images/Dashboard.png" width="900">
 </p>
 <p align="center">
   <img src="images/product.png" width="900">
